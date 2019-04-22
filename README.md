@@ -1,7 +1,7 @@
 SPOJ
 
-Input: integer n number 1<=n<=20 - number of tests and in the next lines set of two numbers a and b (10<=a, b<=30)
+Input: in the first line integer n - number of tests and in the next lines set of two numbers a and b (0 <= a, b <= 1000000)
 
 Output: GCD for every set of inputs
 
-Written by Grzegorz Skowronski
+Created by Grzegorz Skowronski
